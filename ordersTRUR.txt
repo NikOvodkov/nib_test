@@ -1,0 +1,4 @@
+qbuy=2, qsell=2, result=-0.02
+time     oper price  sellorderid q   qd  qr  canceltime
+10:01:05 b    6.73   36025525695 2   2   0   03:00:00
+10:01:04 s    6.72   36025522027 2   2   0   03:00:00

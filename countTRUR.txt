@@ -1,0 +1,2 @@
+23.05.11 09:41:21 oc:843284 used:1054169 myfree:-210885 mymaxfree:-207473 myminfree:-210925 brfree:353124
+ttable_profit:0.0 

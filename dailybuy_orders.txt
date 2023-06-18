@@ -1,0 +1,2 @@
+qbuy=0, qsell=0, result=0.0
+time     oper price  sellorderid q   qd  qr  canceltime status

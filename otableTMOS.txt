@@ -1,0 +1,2 @@
+qbuy=0, qsell=0, result=0.0, curtime=23.05.17 23:50:38
+time     oper price  orderid     q   qd  qr  canceltime orders     portfolio  operations operations_trades

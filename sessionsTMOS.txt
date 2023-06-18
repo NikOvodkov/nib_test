@@ -1,0 +1,96 @@
+ses 23:03:06 21:46:02 oc:256682 used:241120 myfree:15562 brfree:99764   lot:1 d:0.002 price:4.382 opened:1 closed:0 hung:9 used:39 bought:33705 DProfitR: 0 DProfit: 0.0 
+ses 23:03:06 21:49:03 oc:256682 used:241124 myfree:15558 brfree:99766   lot:1 d:0.002 price:4.382 opened:1 closed:0 hung:9 used:39 bought:33706 DProfitR: 0 DProfit: 0.0 
+ses 23:03:06 21:53:05 oc:256682 used:241129 myfree:15553 brfree:99768   lot:1 d:0.002 price:4.382 opened:1 closed:0 hung:9 used:39 bought:33707 DProfitR: 0 DProfit: 0.0 
+ses 23:03:06 22:13:04 oc:256682 used:241142 myfree:15540 brfree:99774   lot:1 d:0.002 price:4.382 opened:1 closed:0 hung:11 used:48 bought:33708 DProfitR: 0 DProfit: 0.0 
+ses 23:03:06 22:37:01 oc:256614 used:241078 myfree:15536 brfree:99776   lot:1 d:0.002 price:4.382 opened:1 closed:0 hung:11 used:48 bought:33709 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 12:40:04 oc:376144 used:374717 myfree:1427 brfree:157749   lot:1 d:0.002 price:4.728 opened:3 closed:0 hung:0 used:4 bought:58224 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 16:00:02 oc:376881 used:375682 myfree:1199 brfree:158277   lot:1 d:0.002 price:4.738 opened:6 closed:0 hung:0 used:4 bought:58266 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 16:20:07 oc:376648 used:375529 myfree:1119 brfree:158152   lot:1 d:0.002 price:4.732 opened:6 closed:0 hung:0 used:4 bought:58280 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 16:59:05 oc:376802 used:375702 myfree:1100 brfree:158219   lot:1 d:0.002 price:4.732 opened:3 closed:0 hung:0 used:4 bought:58286 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 19:59:05 oc:377190 used:376118 myfree:1072 brfree:158391   lot:1 d:0.002 price:4.736 opened:1 closed:0 hung:0 used:4 bought:58301 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 20:29:01 oc:377307 used:376245 myfree:1062 brfree:158396   lot:1 d:0.002 price:4.738 opened:2 closed:0 hung:0 used:4 bought:58301 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 20:59:00 oc:377423 used:376375 myfree:1048 brfree:158504   lot:1 d:0.002 price:4.74 opened:1 closed:0 hung:0 used:4 bought:58303 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 21:29:01 oc:377307 used:376264 myfree:1043 brfree:158506   lot:1 d:0.002 price:4.74 opened:1 closed:0 hung:0 used:4 bought:58305 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 21:59:03 oc:377307 used:376269 myfree:1038 brfree:158457   lot:1 d:0.002 price:4.74 opened:1 closed:0 hung:0 used:4 bought:58306 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 22:29:01 oc:377307 used:376273 myfree:1034 brfree:158459   lot:1 d:0.002 price:4.74 opened:1 closed:0 hung:0 used:4 bought:58307 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 22:59:02 oc:377423 used:376394 myfree:1029 brfree:158512   lot:1 d:0.002 price:4.74 opened:1 closed:0 hung:0 used:4 bought:58308 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 23:29:02 oc:377423 used:376399 myfree:1024 brfree:158514   lot:1 d:0.002 price:4.74 opened:1 closed:0 hung:0 used:4 bought:58309 DProfitR: 0 DProfit: 0.0 
+ses 23:04:03 23:50:05 oc:377423 used:376432 myfree:991 brfree:158529   lot:1 d:0.002 price:4.74 opened:7 closed:0 hung:0 used:4 bought:58310 DProfitR: 0 DProfit: 0.0 
+day 23:04:03 23:50:12 oc:377423 used:376432 myfree:991 brfree:158529   lot:1 d:0.002 price:4.74 opened:7 closed:0 hung:0 used:4 bought:58310 DProfitR: 0 DProfit: 0.0 
+ses 23:04:04 10:59:05 oc:379637 used:378674 myfree:963 brfree:159532   lot:1 d:0.002 price:4.772 opened:-8 closed:40 hung:-48 used:4 bought:58318 DProfitR: 0.21799999999999908 DProfit: 0.0457 
+ses 23:04:04 12:59:10 oc:379404 used:378489 myfree:915 brfree:159451   lot:1 d:0.002 price:4.768 opened:5 closed:0 hung:0 used:4 bought:58329 DProfitR: 0 DProfit: 0.0 
+ses 23:04:04 13:29:04 oc:379637 used:378746 myfree:891 brfree:159512   lot:1 d:0.002 price:4.772 opened:5 closed:0 hung:0 used:4 bought:58329 DProfitR: 0 DProfit: 0.0 
+ses 23:04:04 13:59:01 oc:379987 used:379129 myfree:858 brfree:159680   lot:1 d:0.002 price:4.778 opened:6 closed:0 hung:0 used:4 bought:58334 DProfitR: 0 DProfit: 0.0 
+ses 23:04:04 14:29:04 oc:380454 used:379644 myfree:810 brfree:159847   lot:1 d:0.002 price:4.784 opened:10 closed:0 hung:0 used:4 bought:58334 DProfitR: 0 DProfit: 0.0 
+ses 23:04:04 14:59:00 oc:380921 used:380173 myfree:748 brfree:160137   lot:1 d:0.002 price:4.792 opened:13 closed:0 hung:0 used:4 bought:58334 DProfitR: 0 DProfit: 0.0 
+ses 23:04:04 15:59:00 oc:380182 used:379544 myfree:638 brfree:159871   lot:1 d:0.002 price:4.782 opened:14 closed:0 hung:0 used:4 bought:58378 DProfitR: 0 DProfit: 0.0 
+ses 23:04:04 16:59:01 oc:379832 used:379343 myfree:489 brfree:159783   lot:1 d:0.002 price:4.776 opened:46 closed:4 hung:41 used:205 bought:58378 DProfitR: 0.015999999999998238 DProfit: 0.0001 
+ses 23:04:04 17:59:02 oc:379285 used:378867 myfree:418 brfree:159565   lot:1 d:0.002 price:4.766 opened:61 closed:0 hung:0 used:4 bought:58378 DProfitR: 0 DProfit: 0.0 
+ses 23:04:04 18:45:04 oc:379052 used:378739 myfree:313 brfree:159509   lot:1 d:0.002 price:4.762 opened:83 closed:0 hung:0 used:4 bought:58378 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 10:39:03 oc:378972 used:378692 myfree:280 brfree:159479   lot:1 d:0.002 price:4.756 opened:7 closed:0 hung:0 used:4 bought:58461 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 11:39:03 oc:379595 used:379387 myfree:208 brfree:159773   lot:1 d:0.002 price:4.764 opened:26 closed:22 hung:4 used:76 bought:58461 DProfitR: 0.08399999999999963 DProfit: 0.0011 
+ses 23:04:05 12:39:05 oc:379829 used:379678 myfree:151 brfree:159850   lot:1 d:0.002 price:4.768 opened:11 closed:3 hung:3 used:33 bought:58484 DProfitR: 0.012000000000001343 DProfit: 0.0004 
+ses 23:04:05 13:39:01 oc:379712 used:379589 myfree:123 brfree:159862   lot:1 d:0.002 price:4.766 opened:17 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 14:39:02 oc:384285 used:379181 myfree:5104 brfree:159652   lot:1 d:0.002 price:4.764 opened:21 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 15:39:04 PR:2233.420000000001 used:379496 myfree:5099 brfree:159821   lot:1 d:0.002 price:4.764 opened:22 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 16:39:00 PR:-466.626 used:379126 myfree:5080 brfree:159669   lot:1 d:0.002 price:4.76 opened:26 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 17:39:02 PR:-542.8999999999999 used:379436 myfree:5042 brfree:159795   lot:1 d:0.002 price:4.762 opened:34 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 18:39:00 PR:-743.8519999999995 used:380121 myfree:4942 brfree:160095   lot:1 d:0.002 price:4.772 opened:55 closed:2 hung:50 used:238 bought:58484 DProfitR: 0.007999999999999119 DProfit: 0.0 
+ses 23:04:05 19:39:03 PR:-953.9359999999995 used:379955 myfree:4836 brfree:160032   lot:1 d:0.002 price:4.772 opened:77 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 20:39:02 PR:0.7080000000005384 used:380241 myfree:4784 brfree:160157   lot:1 d:0.002 price:4.774 opened:88 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 21:39:03 PR:0.7100000000007185 used:380255 myfree:4770 brfree:160163   lot:1 d:0.002 price:4.774 opened:91 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 22:39:02 PR:0.910000000000764 used:380406 myfree:4736 brfree:160229   lot:1 d:0.002 price:4.776 opened:98 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:05 23:39:04 PR:1.3940000000010286 used:380665 myfree:4712 brfree:160342   lot:1 d:0.002 price:4.78 opened:103 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+day 23:04:05 23:50:04 PR:1.3940000000010286 used:380665 myfree:4712 brfree:160342   lot:1 d:0.002 price:4.78 opened:103 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:06 10:39:01 PR:0.030000000000008242 used:382549 myfree:4698 brfree:161138   lot:1 d:0.002 price:4.8 opened:106 closed:17 hung:89 used:518 bought:58484 DProfitR: 0.06800000000000139 DProfit: 0.0001 
+ses 23:04:06 10:59:01 PR:4.878000000000011 used:383177 myfree:4693 brfree:161403   lot:1 d:0.002 price:4.812 opened:107 closed:0 hung:0 used:4 bought:58484 DProfitR: 0 DProfit: 0.0 
+ses 23:04:06 11:59:04 PR:0 used:382663 myfree:4621 brfree:161288   lot:1 d:0.002 price:4.8 opened:3 closed:1 hung:2 used:9 bought:58487 DProfitR: 0 DProfit: 0.0 
+ses 23:04:06 16:59:02 PR:0 used:382552 myfree:4577 brfree:161139   lot:1 d:0.002 price:4.802 opened:8 closed:0 hung:0 used:4 bought:58604 DProfitR: 0 DProfit: 0.0 
+ses 23:04:06 17:59:03 PR:-1 used:382529 myfree:4520 brfree:161120   lot:1 d:0.002 price:4.798 opened:23 closed:0 hung:0 used:4 bought:58604 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 10:59:01 PR:0 used:383597 myfree:4385 brfree:161558   lot:1 d:0.002 price:4.808 opened:3 closed:0 hung:0 used:4 bought:58652 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 11:59:01 PR:0 used:383672 myfree:4347 brfree:161582   lot:1 d:0.002 price:4.804 opened:4 closed:0 hung:0 used:4 bought:58659 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 12:59:04 PR:0 used:384101 myfree:4227 brfree:161751   lot:1 d:0.002 price:4.804 opened:7 closed:2 hung:1 used:14 bought:58663 DProfitR: 0.008000000000000895 DProfit: 0.0006 
+ses 23:04:07 13:59:02 PR:0 used:383808 myfree:4174 brfree:161651   lot:1 d:0.002 price:4.806 opened:36 closed:0 hung:0 used:4 bought:58663 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 14:59:01 PR:0 used:383205 myfree:4116 brfree:161406   lot:1 d:0.002 price:4.8 opened:7 closed:0 hung:0 used:4 bought:58699 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 15:59:02 PR:-1 used:382709 myfree:3987 brfree:161199   lot:1 d:0.002 price:4.792 opened:37 closed:4 hung:33 used:172 bought:58713 DProfitR: 0.020000000000000462 DProfit: 0.0001 
+ses 23:04:07 16:59:00 PR:0 used:383166 myfree:3963 brfree:161408   lot:1 d:0.002 price:4.802 opened:35 closed:6 hung:28 used:163 bought:58713 DProfitR: 0.03000000000000025 DProfit: 0.0002 
+ses 23:04:07 17:59:03 PR:0 used:383235 myfree:3857 brfree:161454   lot:1 d:0.002 price:4.804 opened:52 closed:0 hung:0 used:4 bought:58713 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 18:45:05 PR:0 used:383038 myfree:3819 brfree:161362   lot:1 d:0.002 price:4.802 opened:59 closed:0 hung:0 used:4 bought:58713 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 19:59:01 PR:1 used:383401 myfree:3809 brfree:161520   lot:1 d:0.002 price:4.806 opened:20 closed:13 hung:4 used:57 bought:58713 DProfitR: 0.06600000000000339 DProfit: 0.0011 
+ses 23:04:07 20:59:01 PR:1 used:383292 myfree:3800 brfree:161473   lot:1 d:0.002 price:4.806 opened:64 closed:0 hung:0 used:4 bought:58713 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 21:59:01 PR:1 used:383542 myfree:3785 brfree:161582   lot:1 d:0.002 price:4.808 opened:67 closed:0 hung:0 used:4 bought:58713 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 22:59:03 PR:0 used:383120 myfree:3737 brfree:161397   lot:1 d:0.002 price:4.804 opened:77 closed:0 hung:0 used:4 bought:58713 DProfitR: 0 DProfit: 0.0 
+ses 23:04:07 23:50:02 PR:1 used:383619 myfree:3708 brfree:161616   lot:1 d:0.002 price:4.808 opened:83 closed:1 hung:82 used:394 bought:58713 DProfitR: 0.004000000000000448 DProfit: 0.0 
+day 23:04:07 23:50:07 PR:1 used:383619 myfree:3708 brfree:161616   lot:1 d:0.002 price:4.808 opened:83 closed:1 hung:82 used:394 bought:58713 DProfitR: 0.004000000000000448 DProfit: 0.0 
+ses 23:04:10 10:59:04 PR:-2 used:387453 myfree:4408 brfree:163304   lot:1 d:0.002 price:4.872 opened:14 closed:84 hung:-73 used:14 bought:58629 DProfitR: 0.40199999999999125 DProfit: 0.0275 
+ses 23:04:10 18:39:03 PR:-4 used:389189 myfree:4272 brfree:163986   lot:1 d:0.002 price:4.894 opened:26 closed:6 hung:14 used:92 bought:58629 DProfitR: 0.12399999999999434 DProfit: 0.0013 
+ses 23:04:10 23:49:02 PR:-6 used:390007 myfree:4159 brfree:164344   lot:1 d:0.002 price:4.908 opened:40 closed:17 hung:3 used:68 bought:58628 DProfitR: 0.03200000000000003 DProfit: 0.0005 
+day 23:04:10 23:50:05 PR:-6 used:390124 myfree:4159 brfree:164395   lot:1 d:0.002 price:4.908 opened:40 closed:17 hung:3 used:68 bought:58628 DProfitR: 0.03200000000000003 DProfit: 0.0005 
+ses 23:04:11 14:00:00 PR:0 used:392280 myfree:4302 brfree:165291   lot:2 d:0.002 price:4.936 opened:68 closed:46 hung:-12 used:246 bought:58542 DProfitR: 1.228000000000008 DProfit: 0.005 
+ses 23:04:11 14:14:43 PR:0 used:392145 myfree:4282 brfree:165241   lot:2 d:0.002 price:4.936 opened:2 closed:0 hung:270 used:0 bought:0 DProfitR: None DProfit: 0 
+ses 23:04:11 14:14:58 PR:0 used:392145 myfree:4282 brfree:165241   lot:2 d:0.002 price:4.936 opened:2 closed:0 hung:272 used:0 bought:0 DProfitR: None DProfit: 0 
+ses 23:04:11 14:15:13 PR:0 used:392145 myfree:4282 brfree:165241   lot:2 d:0.002 price:4.936 opened:2 closed:0 hung:274 used:0 bought:0 DProfitR: None DProfit: 0 
+ses 23:04:11 18:39:04 PR:-4 used:388880 myfree:23599 brfree:163832   lot:2 d:0.002 price:4.872 opened:446 closed:362 hung:422 used:4326 bought:58396 DProfitR: 1.372000000000001 DProfit: 0.0003 
+ses 23:04:11 23:49:00 PR:-6 used:388778 myfree:22286 brfree:163787   lot:3 d:0.002 price:4.852 opened:195 closed:66 hung:698 used:3386 bought:58390 DProfitR: 0.8820000000000006 DProfit: 0.0003 
+day 23:04:11 23:50:03 PR:-6 used:388778 myfree:22286 brfree:163787   lot:3 d:0.002 price:4.852 opened:195 closed:66 hung:698 used:3386 bought:58390 DProfitR: 0.8820000000000006 DProfit: 0.0003 
+ses 23.04.25 19:59:02  used:591223  myfree:-76685  mymaxfree:-76685  myminfree:-76685  brfree:284667  oc:514538   run:210    lot:2   opened:2    closed:0    hung:2    used:10    bought:68692 ordersprofit:0.0 api_yield_fifo:-13920 api_yield:-13920 
+ses 23.04.25 23:49:32  used:550960  myfree:-34676  mymaxfree:-34676  myminfree:-76700  brfree:276417  oc:516284   run:2767   lot:2   opened:2    closed:0    hung:3    used:15    bought:68693 ordersprofit:0.0 api_yield_fifo:16863  api_yield:16863  
+ses 23.04.25 23:50:05  used:551044  myfree:-34676  mymaxfree:-34676  myminfree:-76700  brfree:276474  oc:516368   run:2773   lot:2   opened:2    closed:0    hung:1    used:15    bought:68696 ordersprofit:0.0 api_yield_fifo:17000  api_yield:17000  
+ses 23.04.28 13:00:05  used:1011619 myfree:-443382 mymaxfree:-442542 myminfree:-443382 brfree:305658  oc:568237   run:1051   lot:2   opened:76   closed:10   hung:66   used:333   bought:68024 ordersprofit:100.92 api_yield_fifo:17415  api_yield:17415  
+ses 23.04.28 16:00:00  used:1067885 myfree:-504308 mymaxfree:-504308 myminfree:-504993 brfree:341060  oc:563577   run:3024   lot:2   opened:178  closed:146  hung:65   used:498   bought:69937 ordersprofit:0.1 api_yield_fifo:15329  api_yield:15329  pre:5.038 cur:5.038 
+ses 23.04.28 18:39:06  used:1069579 myfree:-504959 mymaxfree:-504721 myminfree:-504959 brfree:341681  oc:564620   run:4793   lot:2   opened:14   closed:6    hung:40   used:201   bought:69966 ordersprofit:0.028 api_yield_fifo:15305  api_yield:15305  pre:5.036 cur:5.038 
+ses 23.05.02 13:00:04  used:1032339 myfree:-473771 mymaxfree:-468676 myminfree:-509998 brfree:368455  oc:558568   run:22231  lot:2   opened:158  closed:92   hung:86   used:432   bought:69556 ordersprofit:-0.06 api_yield_fifo:12762  api_yield:12762  pre:5.028 cur:5.03 
+ses 23.05.02 16:00:02  used:995695  myfree:-446870 mymaxfree:-429448 myminfree:-509998 brfree:347647  oc:548825   run:24249  lot:2   opened:38   closed:14   hung:67   used:335   bought:69599 ordersprofit:-0.296 api_yield_fifo:10812  api_yield:10812  pre:5.006 cur:5.008 
+ses 23.05.02 18:39:00  used:998537  myfree:-359144 mymaxfree:-357911 myminfree:-509998 brfree:336269  oc:639393   run:25924  lot:2   opened:226  closed:190  hung:95   used:650   bought:73569 ordersprofit:-1.312 api_yield_fifo:8037   api_yield:8037   pre:4.964 cur:4.968 
+ses 23.05.05 16:00:05  used:1026637 myfree:-307215 mymaxfree:-306961 myminfree:-308247 brfree:343934  oc:719422   run:1759   lot:2   opened:46   closed:32   hung:14   used:87    bought:82216 ordrsprft:-0.004 apiyld_fifo:-386   apiyld:-386   pre:4.886 cur:4.886 
+ses 23.05.05 18:39:01  used:1026939 myfree:-308992 mymaxfree:-306961 myminfree:-309266 brfree:344528  oc:717947   run:3521   lot:2   opened:72   closed:46   hung:47   used:249   bought:81951 ordrsprft:0.032 apiyld_fifo:-396   apiyld:-396   pre:4.888 cur:4.886 
+ses 23.05.05 23:49:31  used:1036623 myfree:-222446 mymaxfree:-211514 myminfree:-311524 brfree:349063  oc:814177   run:6912   lot:2   opened:218  closed:154  hung:117  used:626   bought:84210 ordrsprft:-1.068 apiyld_fifo:-1243  apiyld:-1243  pre:4.86 cur:4.86 
+ses 23.05.16 13:00:07  used:936416  myfree:-20417  mymaxfree:-19963  myminfree:-39568  brfree:330640  oc:915999   run:1973   lot:2   opened:104  closed:60   hung:46   used:268   bought:84478 ordrsprft:-1.016 apiyld_fifo:-715   apiyld:-715   pre:5.158 cur:5.158 
+ses 23.05.16 13:00:38  used:936416  myfree:-20417  mymaxfree:-19963  myminfree:-39568  brfree:330640  oc:915999   run:1973   lot:2   opened:104  closed:60   hung:46   used:268   bought:84478 ordrsprft:-1.016 apiyld_fifo:-715   apiyld:-715   pre:5.158 cur:5.158 
+ses 23.05.16 16:00:04  used:943065  myfree:-24424  mymaxfree:-24207  myminfree:-24424  brfree:333204  oc:918641   run:3660   lot:2   opened:148  closed:94   hung:62   used:320   bought:85156 ordrsprft:-0.428 apiyld_fifo:-674   apiyld:-674   pre:5.17 cur:5.172 
+ses 23.05.16 18:39:00  used:943107  myfree:-22994  mymaxfree:-22766  myminfree:-24475  brfree:333068  oc:920113   run:5432   lot:2   opened:38   closed:32   hung:37   used:264   bought:85183 ordrsprft:0.094 apiyld_fifo:-661   apiyld:-661   pre:5.182 cur:5.182 
+ses 23.05.16 23:49:36  used:945360  myfree:-24413  mymaxfree:-24413  myminfree:-24413  brfree:334125  oc:920947   run:7862   lot:2   opened:38   closed:38   hung:18   used:166   bought:85540 ordrsprft:0.032 apiyld_fifo:-619   apiyld:-619   pre:5.192 cur:5.192 
+ses 23.05.17 13:00:02  used:958234  myfree:-40329  mymaxfree:-40123  myminfree:-40340  brfree:331343  oc:917905   run:9899   lot:2   opened:84   closed:72   hung:29   used:191   bought:85733 ordrsprft:-0.096 high:5.172  low:5.168  pre:5.168 cur:5.17 
+ses 23.05.17 16:00:02  used:957955  myfree:-40453  mymaxfree:-39511  myminfree:-40453  brfree:331286  oc:917502   run:11797  lot:2   opened:36   closed:10   hung:40   used:206   bought:85694 ordrsprft:0.004 high:5.176  low:5.174  pre:5.176 cur:5.176 
+ses 23.05.17 18:39:03  used:958219  myfree:-40701  mymaxfree:-40701  myminfree:-40711  brfree:331491  oc:917518   run:13450  lot:2   opened:14   closed:6    hung:28   used:155   bought:85714 ordrsprft:0.012 high:5.176  low:5.174  pre:5.176 cur:5.176 
+ses 23.05.17 23:49:33  used:959410  myfree:-41331  mymaxfree:-41104  myminfree:-41331  brfree:331847  oc:918079   run:2648   lot:2   opened:4    closed:0    hung:4    used:20    bought:86235 ordrsprft:-0.004 high:5.18   low:5.178  pre:5.178 cur:5.18 

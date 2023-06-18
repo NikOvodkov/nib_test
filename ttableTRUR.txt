@@ -1,0 +1,4 @@
+qbuy=2, qsell=2, result=-0.02, curtime=23.05.16 10:02:43
+order       oper price  tradeid    q   time
+36025522027 s    6.72   7650493354 2   10:01:04  
+36025525695 b    6.73   7650493689 2   10:01:05  

@@ -1,0 +1,4 @@
+buyorderid  bprice buytime           lot sellorderid sprice selltime           original
+            6.69                    4              6.72
+None        6.66   23.05.16 10:01:06 2   36025522027 6.7    None               False   
+36025525695 6.72   23.05.16 10:01:09 2   36025529898 6.74   None               True    
